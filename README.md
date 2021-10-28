@@ -12,11 +12,11 @@ This is the main MATLAB code with which we:
 
 MATLAB_Light_bulbs_clasification_program___deviation_of_luminous_flux.m
 -
-Using this program, the LED light bulbs are clasified in the table based on the parameter: the percentage of fluctuations in the luminous flux - starting with the light bulb with the lowest value to the highest.
+Using this program, the LED light bulbs are clasified in the table based on the parameter: the deviation of the measured luminous flux compared to the value stated on the packaging - starting with the light bulb with the lowest value to the highest.
 
 MATLAB_Light_bulbs_clasification_program___percentage_of_fluctuation.m
 -
-Using this program, the LED light bulbs are clasified in the table based on the parameter: the deviation of the measured luminous flux compared to the value stated on the packaging - starting with the light bulb with the lowest value to the highest.
+Using this program, the LED light bulbs are clasified in the table based on the parameter: the percentage of fluctuations in the luminous flux - starting with the light bulb with the lowest value to the highest.
 
 ARDUINO_stepper_motor_and_relay_circuit_control.ino
 -
