@@ -25,4 +25,4 @@ This program also controls rotation of a stepper motor NEMA23 with a stepper mot
 
 ARDUINO_illuminance_measurement_VEML7700.ino
 -
-The measuring system uses a sensor of illuminance manufactured by Adafruit with the designation VEML7700. Sensor is connected to Microcontroler Arduino UNO using I2C communication protocol.
+The measuring system uses a sensor of illuminance manufactured by Adafruit with the designation VEML7700. Sensor is connected to microcontroler Arduino UNO using I2C communication protocol.
