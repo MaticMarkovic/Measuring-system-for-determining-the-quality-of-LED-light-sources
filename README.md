@@ -21,6 +21,7 @@ Using this program, the LED light bulbs are clasified in the table based on the 
 ARDUINO_stepper_motor_and_relay_circuit_control.ino
 -
 The light bulb is switched on/off with the manufactured circuit. The Arduino UNO receives a command from the MATLAB and gives the voltage on the gate pin of the mosfet. Mosfet enable/disable the flow of electric current through the relay's winding and switches the light bulb on/off.
+This program also controls rotation of a stepper motor NEMA23 with a stepper motor driver DRV8825.
 
 ARDUINO_illuminance_measurement_VEML7700.ino
 -
