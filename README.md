@@ -4,7 +4,7 @@ Modern LED light sources have many advantages as well as some disadvantages. One
 
 MATLAB_Measuring_system_control_and_plotting_the_results.m
 -
-This is the main matlab code with which we:
+This is the main MATLAB code with which we:
  - control the measuring system (switch on/off the light bulb, rotate the sliding table with the light bulb, capture data),
  - set the data acquisition parameters,
  - plot the measurement results,
